@@ -1,5 +1,6 @@
 {
     "firstName": "asdf",
     "lastName": "fdas",
-    "birthday": "1/1/1950"
+    "birthday": "1/1/1950",
+    "email": "foo@bar.com"
 }

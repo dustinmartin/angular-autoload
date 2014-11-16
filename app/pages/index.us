@@ -25,7 +25,8 @@
         <div ng-if="vm.editingPerson">
             <b>{{ vm.editingPerson.firstName }}</b> -
             <b>{{ vm.editingPerson.lastName }}</b> -
-            <b>{{ vm.editingPerson.birthday }}</b>
+            <b>{{ vm.editingPerson.birthday }}</b> -
+            <b>{{ vm.editingPerson.email }}</b>
         </div>
         <script type="text/javascript" src="<%= js %>"></script>
     </body>
